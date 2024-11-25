@@ -53,7 +53,7 @@
 - **fiat_book.csv** - зберігає фіатні транзакції.  
 - **crypto_book.csv** - зберігає криптовалютні транзакції.  
 
-## UML-діаграма
+## UML-діаграма класів
 ```mermaid
 classDiagram
     class BookSingleton {
